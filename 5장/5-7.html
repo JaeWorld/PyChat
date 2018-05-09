@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="utf-8">
+    <head>
+        <title>transtition</title>
+    </head>
+    <style>
+        @keyframes press {
+            from{
+                transform: scaleX(1)
+            }to{
+                transform: scaleX(3)
+            }
+        }
+
+        img:hover{
+            animation: press 2s infinite;
+        }
+    </style>
+    <body>
+        <h3>마우스를 올려봐요</h3>
+        <hr>
+        <img class="press" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQL0vt2DfnbqxLWqg4a-dze8qxe3Z9O7fpDheQ5rjMs-y1SWnLWA">
+    </body> 
+</html>

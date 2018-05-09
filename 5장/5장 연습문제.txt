@@ -1,0 +1,59 @@
+20171632 서현재
+5장 연습문제
+
+1. 1
+
+2. 2
+
+3. 
+inline-block, width : 100px
+inline-block, height : 100px
+
+4. 2
+
+5. 
+(1) 테두리 두께 1px, 색상 blue, 폭 100px인 블럭에
+hello1
+hello2
+hello3
+와 같은 모양으로 배치
+(2) 테두리 두께 1px, 색상 blue, 폭 100px인 블럭에
+hello1 hello2 hello3
+와 같은 모양으로 배치
+(3) 테두리 두께 1px, 색상 blue, 폭 100px인 블럭에
+hello1 hello2 hello3
+와 같은 모양으로 배치
+
+6. 
+
+7. 2
+
+8. 
+(1) style = "color : blue"
+(2) button:hover{
+	background-color : yellow;
+    }
+(3) button:focus{
+	background-color : yellow;
+    }
+
+9.
+(1) span {transition : font-size 2s}
+(2) img {transition : width 3s}
+
+
+10. 
+(1)
+#tran:hover {
+	transform : rotate(180deg);
+}
+
+(2) y축으로 -20도 기울임
+#tran:hover {
+	transform : skew(0deg, -20deg);
+}
+
+(3) 90도 회전하고 1:3비율 확대
+#tran:hover {
+	transform : rotate(90deg) scale(1,3);
+}

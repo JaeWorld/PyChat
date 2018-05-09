@@ -1,0 +1,21 @@
+header {
+    background-color: yellow;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+}
+nav {
+    vertical-align: top;
+    background-color: orange;
+    display: inline-block;
+    width: 10%;
+}
+section {
+    background-color : skyblue;
+    display: inline-block;
+    width: 89%
+}
+footer{
+    background-color: violet
+}
