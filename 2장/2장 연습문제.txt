@@ -1,0 +1,57 @@
+2장 연습문제
+20171632 서현재
+
+1. 2
+2. 3
+3. 4
+4. 1
+5. 4
+6. 4
+7. 4
+8. 2
+9. <meta name = "description" content = "자바에 대해 알려주려고">
+10. <head>
+	<base href = "http://www.mysite.com/html/design/">
+    </head>
+    
+    <a href = "dress.html">옷</a>
+    <a href = "shoes.html">신발</a>
+
+11.     (1)- <ul>
+	(2)- <ol>
+	(3)- <dl>
+
+12. blue, purple, red
+13. 1
+14. 
+(1) 
+<!DOCTYPE html>
+<html>
+<head><title></title>
+</head>
+<body>
+<h3>나의 이야기</h3>
+<hr>
+나는 자랑스러운 대한민국의 국민입니다.
+</body>
+</html>
+
+(2)
+<!DOCTYPE html>
+<html>
+<head><title></title></head>
+<body>
+<br>Merry Christmas! Happy New Year!
+</body>
+</html>
+
+15. 3
+16. 
+<audio controls>
+    <source src = "hello.mp3" type = "audio/mpeg">
+    <source src = "hello.ogg" type = "audio/ogg">
+</audio>
+
+17. 넓이 320, 높이 240의 크기로 비디오를 재생한다. 화면이 출력될때 자동으로 비디오가 재생되도록 하였고,
+비디오의 재생, 음량을 조절할 수 있는 컨트롤 기능을 같이 제공한다. bear.mp4 을 찾아 재생한다. 이때 이 파일이 재생불가능 하다면
+bear.ogg 파일을 재생한다. 
