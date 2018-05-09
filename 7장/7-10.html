@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>book 객체 만들기</title>
+    </head>
+    <body>
+        <h3>book 객체 만들기</h3>
+        <hr>
+        <script>
+            var book = new Object();
+            var bookArray = new Array();
+            var mostexp = 0;
+            var mostexpBook = "";
+            for(var i=0; i<5; i++){
+                var ret = prompt("콤마(,)로 분리하면서 책제목 저자 가격 순으로 입력");
+                bookArray[i] = ret;
+                document.write(bookArray[i], "<br>");
+                var res = ret.split(",");
+                if(res[2] > mostexp){
+                    mostexpBook = res[0];
+                    mostexp = res[2];
+                }
+            }
+            document.write("가장 가격이 비싼 책은", mostexpBook)
+        </script>
+    </body>
+</html>
