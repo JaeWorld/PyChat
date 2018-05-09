@@ -1,0 +1,17 @@
+20171632 서현재
+3장 연습문제
+
+1. 2
+2. 1
+3. 2
+4. 1
+5. 3
+6. 4
+7. 4
+8. action, method, get, post, target
+9. 
+(1) number, range
+(2) month
+(3) checkbox
+(4) radio
+10. 4

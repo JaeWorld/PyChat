@@ -1,0 +1,7 @@
+body {background-color: aliceblue;}
+    h1 {text-align : center ;color: brown}
+    hr {border : 1px solid;}
+    ul {border : 1px dotted;}
+    p.p1 {font-style: italic; text-indent : 1em; font-size: 1em}
+    .blurText {color: blue; text-shadow : 2px 2px 3px blue;}
+    #round1 {border-radius: 30px; background-color: orange;}
