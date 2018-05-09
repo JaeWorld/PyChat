@@ -1,0 +1,10 @@
+body.main {background-color: lightblue}
+        hr {border: 1px solid orange}
+        h3.headline {text-align: center; color: brown; font-size: large;}
+        div.help {
+            text-align: left; color: darkblue; font-size: 0.8em;
+        }
+        p.help {
+            color: orange; font-size: 1.2em;
+        }
+        #hot {background: orange; color: darkblue; font-size: 0.8em;}

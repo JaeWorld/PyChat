@@ -1,0 +1,55 @@
+20171632 서현재
+
+1.
+(1) body {background-color : mistyrose;}
+(2) h3 {color : purple /*purple은 보라색*/}
+(3) hr {height : 5px; background-color : grey}
+(4) span {color : blue; font-size : 20px}
+
+2.
+(1) div {font-size : 30px}
+(2) <p style="color:blue; font-size:30px}
+(3) p {text-indent : 5em}
+(4) p {color : blue}
+
+3. 1
+
+4. 4
+
+5. 1
+
+6. 1
+
+7.
+ 
+p {
+    color : blue;
+    text-align : center;
+  }
+
+<!DOCTYPE html>
+<html>
+<head><title>CSS3</title>
+<style>
+    @import url(style css)
+</style>
+</head>
+<body>
+<p>test</p>
+</body>
+</html>
+
+8. 
+(1) color : red; font-size : 3em; text-align : right; background-color : yellow;
+(2) color : green; text-align: right; font-size : 2em; background-color : yellow
+
+9. 4
+
+10. 3
+
+11.
+(1) a {color: blue; text-decoration: none;}
+(2) a:hover {font-size: 2em;}
+(3) visited {color: violet}
+
+12. 1

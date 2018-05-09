@@ -1,0 +1,7 @@
+body.main {background-color: lightblue;}
+        h3 {text-align: left; color: green}
+        hr {border: 1px solid orange}
+        #center {text-align: center; color: navy; background: yellow; font-weight: bold;}
+        div.indent {text-indent: 3px;}
+        em {font-style: italic; color: green;}
+        center > strong {font-weight: bold;}
