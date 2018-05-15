@@ -1,0 +1,46 @@
+h1 {
+    font-weight: bold; 
+}
+
+h4 {
+    font-weight: bold;
+    color: #0093FF;
+}
+
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.left-box {
+    float: left;
+    width: 50%;
+}
+
+.right-box {
+    float: right;
+    width: 50%;
+}
+.text {
+    font-family: "굴림", gulim, "돋움", dotum, arial
+}
+
+.image {
+    display: inline-block;
+}
+
+.menulist {
+    display: block;
+    font-family: "굴림", gulim, "돋움", dotum, arial;
+}
+.hashtag {
+    display: block;
+}
+
+.fullImg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+}
